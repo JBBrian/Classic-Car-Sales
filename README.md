@@ -1,4 +1,7 @@
-# Classic-Car-Sales
+# SUMMARY
+I searched around the internet for a database I could analyze that simulates real world professional sales work analysis and a product I'm familiar with. This sample company specializes in selling classic car model toys. They have multiple employees and offices around the globe. This data encompasses 2+ years of companys performance.
+
+# OVERVIEW
 
 
 # RESEARCH QUESTIONS
