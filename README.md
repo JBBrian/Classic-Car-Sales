@@ -1,7 +1,8 @@
 # SUMMARY
-I searched around the internet for a database I could analyze that simulates real world professional sales work analysis and a product I'm familiar with. This sample company specializes in selling classic car model toys. They have multiple employees and offices around the globe. This data encompasses 2+ years of companys performance.
+I searched around the internet for a database I could analyze that simulates real world professional sales work analysis and a product I'm familiar with. This sample company specializes in selling classic car model toys. They have multiple employees and offices around the globe. This data encompasses 2+ years of company performance.
 
 # OVERVIEW
+I ran the database creation script in MySQL and briefly explored the data in order to familiarize myself with the tables and contents I would be working with. To begin my analysis I drafted up some research questions and set out to create some queries to analyze the data. After querying the data for my answers, I then created a dashboard to help digest the data.
 
 
 # RESEARCH QUESTIONS
